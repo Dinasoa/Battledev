@@ -1,6 +1,8 @@
 const prompt = require("prompt-sync")();
 let nbrebouton = +prompt("Saisir le nombre total des cockpits: ")
 
+//commentaire
+
 let obj = {}
 for(let i = 0 ; i<nbrebouton ; i++){
     let nomBouton = prompt ("Saisir le nom de chaque cockpit: ")
