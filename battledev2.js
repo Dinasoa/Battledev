@@ -9,7 +9,7 @@ const findButton = () => {
     for (let i = 0; i < numberOfButton; i++) {
         let buttonName = prompt("Enter the name of all cockpits: ")
       
-        //Count the occurence of all the buttons 
+        //Count the occurence of each buttons 
         
         if(obj[buttonName]){
             obj[buttonName]++
