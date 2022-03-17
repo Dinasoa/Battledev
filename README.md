@@ -1,4 +1,4 @@
-# In this repository you will find some battle dev's solutions , coded in Javascript
+## _In this repository you will find some battle dev's solutions , coded in Javascript_
 
 ## Before copying the codes in your IDE , open your terminal and type : 
 
@@ -12,4 +12,3 @@ npm install prompt-sync
 https://demo.isograd.com/runtest/QuestionDisplayer
 ```
 
-# Hope it helped you 
